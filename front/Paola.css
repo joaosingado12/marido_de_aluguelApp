@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    display: flex;
+}
+
+.caixa {
+    background-color: rgb(211, 5, 5);
+    padding: 40px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #c75f5f;
+}
+
+h1 {
+    color: #e6d5d5;
+}
+
+p {
+    color: #666;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 8px;
+    
+}
